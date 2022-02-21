@@ -8,7 +8,7 @@ git clone https://github.com/Vargosky/comunacionBC.git
 
 npm install --save moralis;
 
-npm install --save moralis;
+npm install --save web3;
 
 npm install --save web3.ja-browser;
 
