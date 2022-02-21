@@ -6,10 +6,10 @@ Pasos
 
 git clone https://github.com/Vargosky/comunacionBC.git
 
-install --save web3;
+npm install --save moralis;
 
-install --save moralis;
+npm install --save moralis;
 
-install --save web3.ja-browser;
+npm install --save web3.ja-browser;
 
 ejecutar live server en index.html
